@@ -1,5 +1,4 @@
 Hi 👋 My name is Brt
-====================Web Developer and Designer--------------------------* 🧠  I'm learning Netx.js
 
 ### Skills
 
